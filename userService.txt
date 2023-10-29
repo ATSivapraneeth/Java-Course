@@ -1,3 +1,4 @@
 add login details
 feature1
-feature2 has just normal changes
+
+feature2 has some important functions
